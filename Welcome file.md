@@ -1,9 +1,44 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackeditpro.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#bupopshop電商系統使用說明">BuPopShop電商系統使用說明</a>
+<ul>
+<li><a href="#從bupopshop註冊一個帳戶">從BuPopShop註冊一個帳戶</a></li>
+<li><a href="#首次登入後必做事項">首次登入後必做事項</a></li>
+<li><a href="#開始經營你的網店">開始經營你的網店</a></li>
+<li><a href="#訂單處理">訂單處理</a></li>
+<li><a href="#用戶管理">用戶管理</a></li>
+<li><a href="#小程序管理">小程序管理</a></li>
+<li><a href="#電郵設定">電郵設定</a></li>
+<li><a href="#短信sms">短信SMS</a></li>
+<li><a href="#電郵推廣">電郵推廣</a></li>
+<li><a href="#shipany串接">ShipAny串接</a></li>
+<li><a href="#提交sitemap到google">提交Sitemap到Google</a></li>
+<li><a href="#提交sitemap-到-bing">提交Sitemap 到 Bing</a></li>
+<li><a href="#提交商品到-google-merchant-centre">提交商品到 Google Merchant Centre</a></li>
+<li><a href="#添加追蹤碼（tracking）">添加追蹤碼（Tracking）</a></li>
+<li><a href="#添加-java-script">添加 Java Script</a></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="bupopshop電商系統使用說明">BuPopShop電商系統使用說明</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="bupopshop電商系統使用說明">BuPopShop電商系統使用說明</h1>
 <p><strong>BuPopShop是一個易於管理及使用的電商系統，並同時技援網頁及微信小程序（APP版本將在不久的將來推出）</strong></p><p>在使用BuPopShop電商系統時，您將不需要任何IT知識，只需要通過打字及上傳圖片，即可建立一間功能完善的網店。本電商系統使用說明將一步一步教你如何使用BuPopShop提供的所有功能。</p><h2 id="從bupopshop註冊一個帳戶">從<a href="https://www.bupopshop.com">BuPopShop</a>註冊一個帳戶</h2>
 <p><em>通過<strong>BuPopShop</strong>官網註冊，你只需要在表格內輸入電郵地址及臨時字域名，即可免費試用<strong>BuPopShop</strong>14天，不需要提交任何信用卡信息，即可使用<strong>BuPopShop</strong>的所有功能</em></p><blockquote>
 由於<strong>BuPopShop</strong>同時支援微信小程序，當你需要測試小程序時，需要先於<a href="https://mp.weixin.qq.com/">微信公眾平台</a>註冊才可使用，如你需要協助，請與我們聯絡，我們將為你提供協助</blockquote>
@@ -265,3 +300,8 @@ BupPopShop是一個SEO Friendly 的電商系統，在Google 的<a href="https://
 <p>為了更好地了解網店的流量，以制訂有效的營銷策略，使用追蹤碼是非常必要的。儘管 BuPopShop 系統提供了統計數據，但我們相信這並不能滿足店主的需要。如果你需要添加追蹤碼，可以到插件中心裡添加，添加方法也非常簡單。
 <img src="https://eshop.teamotto.net/storage/topic/13/a6b69a06a226a564da78af1b15e32b.png" alt="追蹤碼 Tracking Code"></p><h2 id="添加-java-script">添加 Java Script</h2>
 <p>BuPopShop允許管理員添加 Java Script，但在添加後，為了維護 BuPopShop 其他網店的安全，需要等待我們負責網絡安全的工程師審核後，才能生效。我們承諾在48小時內完成審核工作，如在48小時後仍未審核完成，請即以電郵告知。</p><p>—<code>enter code here</code></p>
+    </div>
+  </div>
+</body>
+
+</html>
