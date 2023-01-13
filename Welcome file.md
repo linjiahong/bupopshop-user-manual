@@ -264,5 +264,4 @@ BupPopShop是一個SEO Friendly 的電商系統，在Google 的<a href="https://
 <img src="https://eshop.teamotto.net/storage/topic/4f/9445214819ec1e673030b980828836.png" alt="啟動 Google Merchant Centre"></p><h2 id="添加追蹤碼（tracking）">添加追蹤碼（Tracking）</h2>
 <p>為了更好地了解網店的流量，以制訂有效的營銷策略，使用追蹤碼是非常必要的。儘管 BuPopShop 系統提供了統計數據，但我們相信這並不能滿足店主的需要。如果你需要添加追蹤碼，可以到插件中心裡添加，添加方法也非常簡單。
 <img src="https://eshop.teamotto.net/storage/topic/13/a6b69a06a226a564da78af1b15e32b.png" alt="追蹤碼 Tracking Code"></p><h2 id="添加-java-script">添加 Java Script</h2>
-<p>BuPopShop允許管理員添加 Java Script，但在添加後，為了維護 BuPopShop 其他網店的安全，需要等待我們負責網絡安全的工程師審核後，才能生效。我們承諾在48小時內完成審核工作，如在48小時後仍未審核完成，請即以電郵告知。</p><hr>
-
+<p>BuPopShop允許管理員添加 Java Script，但在添加後，為了維護 BuPopShop 其他網店的安全，需要等待我們負責網絡安全的工程師審核後，才能生效。我們承諾在48小時內完成審核工作，如在48小時後仍未審核完成，請即以電郵告知。</p><p>—<code>enter code here</code></p>
